@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imshubham07&label=Profile%20views&color=0e75b6&style=flat" alt="imshubham07" /> </p>
 
-- 🌱 I’m currently learning **javascript & DSA**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **mrshubhamdubey20@gmail.com**
 
