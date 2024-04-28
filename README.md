@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Banner.png" alt="Your Image Description">
+</p>
 <h1 align="center">Hi 👋, I'm Shubham Kumar Dubey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
