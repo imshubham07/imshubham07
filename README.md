@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **personal project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
