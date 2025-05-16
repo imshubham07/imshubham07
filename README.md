@@ -36,9 +36,8 @@
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=imshubham07&theme=cobalt2&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=imshubham07&theme=cobalt2&hide_border=false)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imshubham07&theme=cobalt2&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=imshubham07&theme=cobalt2&hide_border=false)
 
 ### ✍️ Random Dev Quote
 
