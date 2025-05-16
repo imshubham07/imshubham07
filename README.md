@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/imshubham07](https://github.com/imshubham07)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/imshubham07)
 
 - 💬 Ask me about **TypeScript, JavaScript**
 
